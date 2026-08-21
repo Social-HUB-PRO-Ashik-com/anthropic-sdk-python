@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 (2026-08-21)
+
+Full Changelog: [v1.0.0...v1.0.1](https://github.com/anthropics/anthropic-sdk-python/compare/v1.0.0...v1.0.1)
+
+### Chores
+
+* **internal:** remove the legacy response API ([bb1c458](https://github.com/anthropics/anthropic-sdk-python/commit/bb1c4588dcc208b12864c58787b63ff035fca3c1))
+
 ## 1.0.0 (2026-08-20)
 
 Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0)
